@@ -25,7 +25,7 @@ totalPrice = totalPrice + productPrice3 * productQuantity3;
 
 // обнуляємо лічильник
 totalPrice = 0;
-// другий
+// другий - рекомендовано використовувати в циклах
 totalPrice += productPrice1 * productQuantity1;
 totalPrice += productPrice2 * productQuantity2;
 totalPrice += productPrice3 * productQuantity3;
